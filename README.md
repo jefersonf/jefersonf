@@ -1,5 +1,10 @@
 ### Hi! 👋
 
+Welcome to my little space.
+
+Here you can find some of my personal projects, code snippets and the contributions I've made in very cool projects!
+
+
 > "I want to know what it is like inside too. Not only the interface!" — Jeferson
 
 <!--
