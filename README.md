@@ -4,10 +4,10 @@ Welcome to my little space.
 
 Here you can find some of my personal projects, code snippets and the contributions I've made in very cool projects!
 
+<!--
 
 > "I want to know what it is like inside too. Not only the interface!" — Jeferson
 
-<!--
 <img title="Jefersonf's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=jefersonf&count_private=true&hide=issues&title_color=00b388&bg_color=DEG,ffffff,efefef&show_icons=true&icon_color=666666" />
 
 **jefersonf/jefersonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
