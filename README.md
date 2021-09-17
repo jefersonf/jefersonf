@@ -1,8 +1,6 @@
 ### Hi! 👋
 
-Welcome to my little space.
-
-Here you can find some of my personal projects, code snippets and the contributions I've made in very cool projects!
+Be welcome! Here you can get some code references (at your own risk 😄) 
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonf&layout=compact&hide=css,html)](https://github.com/jefersonf/github-readme-stats)
