@@ -1,6 +1,5 @@
 #### Hi! 👋 Be welcome!
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonf&layout=compact&hide=css,html)](https://github.com/jefersonf/github-readme-stats)
 
 <!--
