@@ -3,6 +3,7 @@
 **A brief about me**
 
 💻 ML Researcher & Practitioner [@SPLab](https://splab.computacao.ufcg.edu.br/welcome-to-splab)\
+🎓 Holds a Bachelor degree in CS\
 🇧🇷 Born and raised in Brazil
 
 **I’m working on**
