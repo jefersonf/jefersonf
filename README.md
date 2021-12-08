@@ -1,12 +1,11 @@
-### Hi! 👋 Be welcome!
 
-**A brief about me**
+### Hi! 👋 ..a brief about me
 
 💻 ML Researcher & Practitioner [@SPLab](https://splab.computacao.ufcg.edu.br/welcome-to-splab)\
 🎓 Holds a Bachelor degree in CS\
 🇧🇷 Born and raised in Brazil
 
-**I’m working on**
+### I’m working on
 
 🤖 ML solutions to accelerate QA processes [@HPE](https://www.hpe.com/br/pt/home.html)\
 🏗️ Building my personal site
