@@ -1,12 +1,13 @@
 
 ### Hi! 👋 ..a brief about me
 
-💻 ML Researcher & Practitioner [@SPLab](https://splab.computacao.ufcg.edu.br/welcome-to-splab)\
+💻 Data Analyst [@SPLab](https://splab.computacao.ufcg.edu.br/welcome-to-splab)\
 🎓 Holds a Bachelor degree in CS\
 🇧🇷 Born and raised in Brazil
 
 ### I’m working on
 
+🤖 Data Analysis on Salesforce Lightning data
 🤖 ML solutions to accelerate QA processes [@HPE](https://www.hpe.com/br/pt/home.html)\
 🏗️ Building my personal site
 
