@@ -53,7 +53,7 @@
 					margin: 0;
 					width: 100%;
 					height: 180px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: linear-gradient(-45deg, #6A5ACD, #4169E1, #663399);
 					background-size: 600% 180%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
