@@ -126,13 +126,13 @@
 		          </tr>
 		          <tr>
 		            <td><span style="background-color: cornsilk; color: black">Easy</span></td>
-		            <td>Requires understanding of two or more topics and how to connect them in order to complete structured project</td>
+		            <td>Requires understanding of two or more topics and how to connect them in order to complete a structured project</td>
 		            <td><span style="background-color: lightsalmon; color: black">Medium</span></td>
 		            <td>When it took about a fortnight to complete</td>
 		          </tr>
 		          <tr>
 		            <td><span style="background-color: lightsalmon; color: black">Intermediate</span></td>
-		            <td>Requires a deep understanding in at least one of a set topics required to complete the project.</td>
+		            <td>Requires a deep understanding in at least one of a set of topics in order to complete the project</td>
 		            <td><span style="background-color: red;">High</span></td>
 		            <td>Those that lasted much longer than two weeks</td>
 		          </tr>
