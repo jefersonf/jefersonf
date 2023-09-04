@@ -35,8 +35,9 @@ Skill Level
 | Medium | When it took about a fortnight to complete
 | High | Those that lasted much longer than two weeks
 
+-->
 
 <img src="header.svg" width="100%" alt="Header">
 
--->
+
 
