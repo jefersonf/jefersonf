@@ -61,6 +61,13 @@
 					text-align: center;
 				}
 
+				table {
+					width: 80%;
+				text-align: left;
+				margin: 0 auto;
+				  font-size: 10px;
+				}
+
 				h1 {
 					font-size: 50px;
 					line-height: 1.3;
@@ -80,27 +87,64 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+
+				td > span {
+				    padding: 2px 6px;
+				    border-radius: 10px;
+				}
 			</style>
 			<div class="container">
 
-        <table style="width:100%; border: 0px solid transparent;">
-          <tr>
-            <th>Effort Level</th>
-            <th>Legend</th>
-          </tr>
-          <tr>
-            <td><b style="background-color: green">Low</b></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td><b style="background-color: orange">Medium</b></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td><b style="background-color: indian-red">High</b></td>
-            <td></td>
-          </tr>
-        </table>
+			<table>
+		          <tr>
+		            <th></th>
+		            <th></th>
+		          </tr>
+		          <tr>
+		            <td> 💻 Back-end Developer <a href="https://developer.dell.com/">@Dell EMC</a> <br />
+				 🎓 Holds a Bachelor degree in CS <br />
+				 🇧🇷 Born and raised in Brazil <br />
+			    </td> 
+		            <td>
+			    </td>
+		          </tr>
+		        </table>
+			<br />
+			<details>
+			    <summary> Legends </summary>
+		        <table>
+		          <tr>
+		            <th>Skill Level</th>
+		            <th>Legend</th>
+			    <th>Effort Level</th>
+			    <th>Legend</th>
+		          </tr>
+		          <tr>
+		            <td><span style="background-color: aquamarine; color: black">Beginner</span></td>
+		            <td>Basic programming skills</td>
+		            <td><span style="background-color: mediumturquoise; color: black">Low</span></td>
+		            <td>When it took at most a week to complete, but usually those that lasted a weekend</td>
+		          </tr>
+		          <tr>
+		            <td><span style="background-color: cornsilk; color: black">Easy</span></td>
+		            <td>Requires understanding of two or more topics and how to connect them in order to complete structured project</td>
+		            <td><span style="background-color: lightsalmon; color: black">Medium</span></td>
+		            <td>When it took about a fortnight to complete</td>
+		          </tr>
+		          <tr>
+		            <td><span style="background-color: lightsalmon; color: black">Intermediate</span></td>
+		            <td>Requires a deep understanding in at least one of a set topics required to complete the project.</td>
+		            <td><span style="background-color: red;">High</span></td>
+		            <td>Those that lasted much longer than two weeks</td>
+		          </tr>
+		          <tr>
+		            <td><span style="background-color: red">Advanced</span></td>
+		            <td>Requires a deep understanding in some topics and also expertise along with the others in order to a MVP of a project</td>
+		            <td></td>
+		            <td></td>
+		          </tr>
+		        </table>
+			</details>
         
 			</div>
 		</div>
