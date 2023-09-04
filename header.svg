@@ -52,7 +52,7 @@
 					justify-content: center;
 					margin: 0;
 					width: 100%;
-					height: 400px;
+					height: 180px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
@@ -62,10 +62,9 @@
 				}
 
 				table {
-					width: 80%;
-				text-align: left;
-				margin: 0 auto;
-				  font-size: 10px;
+					width: 92%;
+				        text-align: left;
+				        font-size: 18px;
 				}
 
 				h1 {
@@ -86,6 +85,11 @@
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
+				}
+
+				td {
+				  line-height: 2.5em;
+				  text-shadow: 1px 1px 1px slategrey;
 				}
 
 				td > span {
@@ -111,7 +115,7 @@
 		        </table>
 			<br />
 
-		        <table>
+		        <!--<table>
 		          <tr>
 		            <th>Skill Level</th>
 		            <th>Legend</th>
@@ -142,9 +146,8 @@
 		            <td></td>
 		            <td></td>
 		          </tr>
-		        </table>
+		        </table> -->
 
-        
 			</div>
 		</div>
 	</foreignObject>
