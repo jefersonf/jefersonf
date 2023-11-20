@@ -6,6 +6,11 @@
 🎓 Holds a Bachelor degree in CS
 
 🇧🇷 Born and raised in Brazil
+<!--
+<div style="width:100%; text-align">
+  <img src="https://jefersonferdasi.com/images/logo.png" height="300" />
+</div>
+-->
 
 <!--
 <img src="header.svg" width="100%" alt="Header">
