@@ -1,12 +1,13 @@
 
 # 👋 Hello there!
 
+<!--
 💻 Back-end Developer [@Dell EMC](https://developer.dell.com/)
 
 🎓 Holds a Bachelor degree in CS
 
 🇧🇷 Born and raised in Brazil
-<!--
+
 <div style="width:100%; text-align">
   <img src="https://jefersonferdasi.com/images/logo.png" height="300" />
 </div>
