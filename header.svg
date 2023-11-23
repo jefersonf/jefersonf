@@ -56,19 +56,18 @@
 					background: linear-gradient(-45deg, #6A5ACD, #4169E1, #663399);
 					background-size: 600% 180%;
 					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
+					border-radius: 7px;
 					color: white;
 					text-align: center;
 				}
 
 				table {
-					width: 92%;
+					width: 95%;
 				        text-align: left;
-				        font-size: 16px;
+				        font-size: 10pt;
 				}
 
 				h1 {
-					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -82,7 +81,7 @@
 				}
 
 				p {
-					font-size: 20px;
+					font-size: 1rem;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
@@ -110,6 +109,7 @@
 				 🇧🇷 Born and raised in Brazil <br />
 			    </td> 
 		            <td>
+				    <!-- <img src="/logo.png" height="64"> -->
 			    </td>
 		          </tr>
 		        </table>
