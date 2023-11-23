@@ -86,7 +86,6 @@
 
 				td {
 				  line-height: 2.5em;
-				  text-shadow: 1px 1px 1px slategrey;
 				}
 
 				td > span {
