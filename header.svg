@@ -56,6 +56,9 @@
 					background-size: 600% 180%;
 					border-radius: 7px;
 					text-align: center;
+					color: white;
+					background: linear-gradient(-45deg, #2d333b, #1c2128, #22272e);
+					animation: gradientBackground 10s ease infinite;
 				}
 
 				table {
@@ -102,9 +105,8 @@
 				    </td> 
 			            <td>
 				    </td>
-			            <td> 💻 Back-end Developer <a href="https://developer.dell.com/">@Dell EMC</a> <br />
+			            <td> 💻 <s>Full-stack</s>Chameleon Developer <br />
 					 🎓 Holds a Bachelor degree in CS <br />
-					 🇧🇷 Born and raised in Brazil <br />
 				    </td> 
 			          </tr>
 			        </table>
