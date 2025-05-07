@@ -1,6 +1,3 @@
-
-# 👋👋👋 Helloooo!
-
 <!--
 💻 Back-end Developer [@Dell EMC](https://developer.dell.com/)
 
@@ -19,4 +16,3 @@ Calango -> https://www.youtube.com/watch?v=yxV-SmvkJSM&ab_channel=caioken
 -->
 
 <img src="header.svg" width="100%" alt="Header">
-
