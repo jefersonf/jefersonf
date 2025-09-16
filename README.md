@@ -13,6 +13,7 @@
 
 Calango -> https://www.youtube.com/watch?v=yxV-SmvkJSM&ab_channel=caioken
 
+<img src="header.svg" width="100%" alt="Header">
+
 -->
 
-<img src="header.svg" width="100%" alt="Header">
