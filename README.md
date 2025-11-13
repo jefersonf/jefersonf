@@ -36,6 +36,8 @@ indie/pop bands I realy like (band tier set)
   
 |Year|Project Name|Description|
 |-|-|-|
+|2018|Escolando|A classroom management software developed in Python (Flask). Focused on helping the teacher manage daily activities, behavior, attendance, and student engagement.|
+|2015|Poupazudo|A billing management app developed in Java using JavaFX.|
 |2014|[Calango - The Journey](https://www.youtube.com/watch?v=yxV-SmvkJSM)|A 2D platform game developed in Python using the [PyGame](https://www.pygame.org/) library.|
 |2013|[LostSheep Game](https://sites.google.com/view/jaw-anamnese/projeto-lost-sheep/screenshots)|A 3-level logic and strategy mobile game for Android, implemented in pure Java, featuring environmental puzzles and character attribute progression.|
 |2012|[JAW Anamnese](https://sites.google.com/view/jaw-anamnese/projeto-anamnese/screenshots)|A Python Web System for the [IFPB - Campus Monteiro](https://www.ifpb.edu.br/monteiro) ambulatory, digitizing student registration and inventory control, replacing manual forms.|
