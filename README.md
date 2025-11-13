@@ -31,12 +31,16 @@ indie/pop bands I realy like (band tier set)
 - [Package Naming in Go](https://www.linkedin.com/pulse/package-naming-go-jeferson-ferreira-5d0cf)
 
 #### Academic projects
-
+<details>
+<summary>See all</summary>
+  
 |Year|Project Name|Description|
 |-|-|-|
 |2014|[Calango - The Journey](https://www.youtube.com/watch?v=yxV-SmvkJSM)|A 2D platform game developed in Python using the [PyGame](https://www.pygame.org/) library.|
 |2012|[LostSheep Game](https://sites.google.com/view/jaw-anamnese/projeto-lost-sheep/screenshots)|A 3-level logic and strategy mobile game for Android, implemented in pure Java, featuring environmental puzzles and character attribute progression.|
 |2012|[JAW Anamnese](https://sites.google.com/view/jaw-anamnese/projeto-anamnese/screenshots)|A Python Web System for the [IFPB - Campus Monteiro](https://www.ifpb.edu.br/monteiro) ambulatory, digitizing student registration and inventory control, replacing manual forms.|
+
+</details>
 
 <!--
 ### Featured Data Analysis Projects
