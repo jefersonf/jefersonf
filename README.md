@@ -30,7 +30,6 @@ indie/pop bands I realy like (band tier set)
 
 - [Package Naming in Go](https://www.linkedin.com/pulse/package-naming-go-jeferson-ferreira-5d0cf)
 
-
 <!--
 ### Featured Data Analysis Projects
 
