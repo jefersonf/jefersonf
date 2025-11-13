@@ -15,5 +15,17 @@ Calango -> https://www.youtube.com/watch?v=yxV-SmvkJSM&ab_channel=caioken
 
 <img src="header.svg" width="100%" alt="Header">
 
+Other articles I can write about.
+indie/pop bands I realy like (band tier set)
+1. the smiths, the shins, radiohead, arcade fire
+2. alvvays, Jose Gonsalez, hazel english, jim croce
+3. beach house, beach fossels
+4. lana del rey, Jake Bugg, imase
+5. alex turner, MGMT, Current Joy
+
 -->
 ...
+
+### Featured articles
+
+- [Package Naming in Go](https://www.linkedin.com/pulse/package-naming-go-jeferson-ferreira-5d0cf)
