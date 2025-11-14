@@ -23,6 +23,18 @@ indie/pop bands I realy like (band tier set)
 4. lana del rey, Jake Bugg, imase
 5. alex turner, MGMT, Current Joy
 
+#### Personal projects (1)
+
+<details>
+  <summary>Sell all</summary>
+
+|year|project name|tech stack|description|
+|-|-|-|-|
+|2014|Aquaplay|`Java`, `Android`| An Aquaplay-simulation game.|
+|2013|Propaler|`PHP`, `JavaScript`, `JQuery`, `MySQL`| A social network app.|
+  
+</details>
+
 -->
 ...
 
@@ -30,13 +42,14 @@ indie/pop bands I realy like (band tier set)
 
 - [Package Naming in Go](https://www.linkedin.com/pulse/package-naming-go-jeferson-ferreira-5d0cf)
 
-#### Academic projects (7)
+#### Academic projects (8)
 <details>
 <summary>See all</summary>
   
 |year|project name|tech stack|description|
 |-|-|-|-|
 |2018|[Escolando](https://github.com/jefersonf/escolando)|`NodeJS`, `ExpressJS`, `AngularJS`, `MongoDB`, `AWS S3` |A classroom management app.|
+|2018|[+Sangue](https://github.com/jefersonf/mais-sangue-app)|`NodeJS`, `TypeScript`, `Ionic`, `SQLite`|Application to find people eligible to donate blood within a proximity radius of the user.|
 |2017|[Garupa](https://github.com/jefersonf/garupa.com)|`Python`, `Flask`, `AngularJS`, `SQLite`|Web system for ride-sharing/carpooling among UFCG associates.|
 |2017|[Achados e Perdidos DSC](https://github.com/jefersonf/achados-perdidosDSC)|`Python`, `Flask`, `AngularJS`, `SQLite`|Lost & Found management app.|
 |2015|[Poupazudo](https://github.com/rocketman-team/lp2-poupazudo/tree/master)|`Java`, `JavaFX`, `JSON`|A billing management app.|
