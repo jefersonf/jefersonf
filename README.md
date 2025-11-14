@@ -36,7 +36,6 @@ indie/pop bands I realy like (band tier set)
 </details>
 
 -->
-...
 
 #### Featured articles
 
