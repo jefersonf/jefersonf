@@ -30,18 +30,19 @@ indie/pop bands I realy like (band tier set)
 
 - [Package Naming in Go](https://www.linkedin.com/pulse/package-naming-go-jeferson-ferreira-5d0cf)
 
-#### Academic projects
+#### Academic projects (7)
 <details>
 <summary>See all</summary>
   
-|Year|Project Name|Description|
-|-|-|-|
-|2018|[Escolando](https://github.com/jefersonf/escolando)|A classroom management software developed in Python (Flask). Focused on helping the teacher manage daily activities, behavior, attendance, and student engagement.|
-|2017|[Garupa](https://github.com/jefersonf/garupa.com)|Web system for ride-sharing/carpooling among UFCG associates.|
-|2015|[Poupazudo](https://github.com/rocketman-team/lp2-poupazudo/tree/master)|A billing management app developed in Java using JavaFX.|
-|2014|[Calango - The Journey](https://www.youtube.com/watch?v=yxV-SmvkJSM)|A 2D platform game developed in Python using the [PyGame](https://www.pygame.org/) library.|
-|2013|[LostSheep Game](https://sites.google.com/view/jaw-anamnese/projeto-lost-sheep/screenshots)|A 3-level logic and strategy mobile game for Android, implemented in pure Java, featuring environmental puzzles and character attribute progression.|
-|2012|[JAW Anamnese](https://sites.google.com/view/jaw-anamnese/projeto-anamnese/screenshots)|A Python Web System for the [IFPB - Campus Monteiro](https://www.ifpb.edu.br/monteiro) ambulatory, digitizing student registration and inventory control, replacing manual forms.|
+|year|project name|tech stack|description|
+|-|-|-|-|
+|2018|[Escolando](https://github.com/jefersonf/escolando)|`NodeJS`, `ExpressJS`, `AngularJS`, `MongoDB`, `AWS S3` |A classroom management app.|
+|2017|[Garupa](https://github.com/jefersonf/garupa.com)|`Python`, `Flask`, `AngularJS`, `SQLite`|Web system for ride-sharing/carpooling among UFCG associates.|
+|2017|[Achados e Perdidos DSC](https://github.com/jefersonf/achados-perdidosDSC)|`Python`, `Flask`, `AngularJS`, `SQLite`|Lost & Found management app.|
+|2015|[Poupazudo](https://github.com/rocketman-team/lp2-poupazudo/tree/master)|`Java`, `JavaFX`, `JSON`|A billing management app.|
+|2014|[Calango - The Journey](https://www.youtube.com/watch?v=yxV-SmvkJSM)|`Python`, `PyGame`|A 2D platform game.|
+|2013|[LostSheep Game](https://sites.google.com/view/jaw-anamnese/projeto-lost-sheep/screenshots)|`Java`, `Android`|A 3-level logic and strategy mobile game for Android.|
+|2012|[JAW Anamnese](https://sites.google.com/view/jaw-anamnese/projeto-anamnese/screenshots)|`Python`, `Tkinter`, `SQLite`|A Python Web System for the [IFPB - Campus Monteiro](https://www.ifpb.edu.br/monteiro) ambulatory.|
 
 </details>
 
